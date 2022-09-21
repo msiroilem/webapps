@@ -1,0 +1,14 @@
+* {
+  margin: 0;
+  box-sizing: border-box;
+  overflow: auto;
+}
+
+.navbar {
+  background-color: red;
+  /* display: inline; */
+}
+.navbar li a:hover {
+  color: red;
+  text-decoration: none;
+}
