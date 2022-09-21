@@ -28,7 +28,7 @@ h3 {
 #recent {
   position: absolute;
   right: 100px;
-  top: 200px;
+  top: 100px;
   margin: 20px;
   padding: 20px;
   border: 2px solid black;
@@ -37,10 +37,11 @@ h3 {
 #popular {
   position: absolute;
   right: 100px;
-  bottom: 200px;
+  top: 350px;
   margin: 20px;
   padding: 20px;
   border: 2px solid black;
+  width: 25%;
 }
 #search {
   display: flex;
