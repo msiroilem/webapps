@@ -34,6 +34,12 @@ h3 {
   border: 2px solid black;
   width: 25%;
 }
+.recent-container {
+  border: 1px solid black;
+  /* padding: 100px; */
+  height: 100px;
+  width: 490px;
+}
 #popular {
   position: absolute;
   right: 100px;
@@ -42,6 +48,12 @@ h3 {
   padding: 20px;
   border: 2px solid black;
   width: 25%;
+}
+
+.popular-container {
+  border: 1px solid black;
+  height: 100px;
+  width: 490px;
 }
 #search {
   display: flex;
@@ -64,17 +76,6 @@ footer {
   color: red;
 } */
 
-.recent-container {
-  border: 1px solid black;
-  /* padding: 100px; */
-  height: 100px;
-  width: 100px;
-}
-.popular-container {
-  border: 1px solid black;
-  height: 100px;
-  width: 100px;
-}
 body {
   background-color: darkgray;
 }
